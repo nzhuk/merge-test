@@ -1,5 +1,15 @@
 Maggio Changelog
 ----------------
+
+5.1.0
+=======
+New York
+San Francisco
+Oakhurst
+
+
+
+
 Feature A
 Feature B
 
