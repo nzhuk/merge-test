@@ -1,6 +1,7 @@
 Maggio Changelog
 ----------------
 Feature A
+Feature B
 
 3.0
 =====
